@@ -1,8 +1,8 @@
 # Exercise-5-Web-Scraping-Data
 
 ~~~
-Name : JOHN PALL M
-Reg.No : 212224040140
+Name : Kavi M S
+Reg.No : 212223220044
 ~~~
 
 ## Aim:
